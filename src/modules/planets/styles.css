@@ -1,0 +1,10 @@
+.btn-container {
+  margin: 15px;
+  display: flex;
+  width: inherit;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn {
+  padding: 5px;
+}

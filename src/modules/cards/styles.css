@@ -1,0 +1,9 @@
+.long-title h3 {
+  font-weight: 800;
+}
+
+.first-group,
+.second-group {
+  padding: 20px;
+  font-weight: 800;
+}
